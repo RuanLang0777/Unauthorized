@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/RuanLang0777/Unauthorized/main/help.png
+![INFO](https://raw.githubusercontent.com/RuanLang0777/Unauthorized/main/help.png)
